@@ -1,5 +1,5 @@
 # Pedstriant Name List
-URL
+[URL](https://steamcommunity.com/sharedfiles/filedetails/?id=2992429860)
 
 Custom Name Listsを使って、DLC Plazas & Promenadesの歩行者エリア名を日本風の名称へ変更します。
 
