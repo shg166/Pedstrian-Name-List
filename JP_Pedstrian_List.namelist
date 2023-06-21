@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="JP Pedstrian Namelist (DLC Plazas Promenades)">
+	<strings>
+		<!-- DLC Pedstrian Area Pattern -->
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 商店街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} モール</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} ショッピングモール</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} アウトレットモール</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} プレミアムモール</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 歩行者天国</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 銀座</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} アーケード</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} センター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} ホコ天</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">商店街 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">モール {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">ショッピングモール {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">アウトレットモール {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">プレミアムモール {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">歩行者天国 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">銀座 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">アーケード {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">センター {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">ホコ天 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 団地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 住宅街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 学園都市</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 田園都市</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 分譲地区</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 賃貸地区</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} ニュータウン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} ベッドタウン</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 高級住宅街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} ヶ丘</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">団地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">住宅地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">学園都市 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">田園都市 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">分譲地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">賃貸地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">ニュータウン {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">ベッドタウン {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">パークタウン {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">グリーンヒル {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 工業団地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 流通団地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 産業団地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 生産団地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} エネルギー団地</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} テクノパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} トラックセンター</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} スカイパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} ハイテクパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} サイエンスパーク</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">工業団地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">流通団地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">産業団地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">生産団地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">エネルギー団地 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">テクノパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">トラックセンター {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">スカイパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">ハイテクパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">サイエンスパーク {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} オフィス街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} ビジネス街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 金融街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 新都心</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 副都心</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 繁華街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 官公庁街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">{0} 官庁街</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">オフィス街 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">ビジネス街 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">金融街 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">新都心 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">副都心 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">繁華街 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">官公庁街 {0}</LocalizedString>
+		<LocalizedString identifier="AREA_PATTERN" key="PedestrianZone">官庁街 {0}</LocalizedString>
+	</strings>
+</NameList>
